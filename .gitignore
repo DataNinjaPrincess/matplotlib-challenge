@@ -1,3 +1,9 @@
+#Keys
+KingdomKeys.py
+
+#DNU
+DoNotUpload/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
